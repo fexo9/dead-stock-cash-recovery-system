@@ -25,7 +25,7 @@ worked examples (EN + AR), FAQ + limits (EN + AR), file-by-file inventory.
 ## Free sample + demo video
 
 - **Free sample:** scoring rules, one SKU worked end to end, first 3 steps. https://github.com/fexo9/dead-stock-cash-recovery-system/blob/main/FREE-SAMPLE-Dead-Stock-Cash-Recovery.md
-- **Demo video:** 72-second walkthrough of the real files. https://youtu.be/jt7D_koEWFg
+- **Demo video:** 72-second walkthrough of the real files. https://www.youtube.com/watch?v=qHCYEejaDFA
 
 ## What it does NOT do
 
